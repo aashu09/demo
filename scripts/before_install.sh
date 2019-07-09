@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ -d /callproof ]; then
-    rm -rf /callproof
+if [ -d /demo ]; then
+    rm -rf /demo
 fi
-mkdir -vp /callproof
+mkdir -vp /demo
